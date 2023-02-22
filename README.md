@@ -1,5 +1,5 @@
 # Usage
 
-``py
+```python
 encrypt("your_message")
-``
+```
