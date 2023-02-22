@@ -4,7 +4,7 @@ SHA256 is Encryption Algorithm for encrypting certain values. It was created by 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install sha256
