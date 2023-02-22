@@ -7,16 +7,16 @@ SHA256 is Encryption Algorithm for encrypting certain values. It was created by 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
-pip install 256-encrypt
+pip install shacrypt
 ```
 
 ## Usage
 
 ```python
-from 256-encrypt import encrypt
+import shacrypt
 
 # encrypt a value
-value = encrypt("helloworld")
+value = shacrypt.encrypt("helloworld")
 
 print(value)
 ```
