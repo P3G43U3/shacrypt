@@ -1,2 +1,5 @@
-# sha256-encryption
-Python Module for SHA256 Hash Encyrption.
+# Usage
+
+``py
+encrypt("your_message")
+``
